@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-import './App.css';
 import WeatherIcon from './components/WeatherIcon';
 import WeatherDetails from './components/WeatherDetails';
 
